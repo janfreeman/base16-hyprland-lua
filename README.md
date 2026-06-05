@@ -5,7 +5,7 @@ This repo provides templates for using
 Hyprland's new Lua configuration.
 
 > [!NOTE]
-> It is recommended to apply this theme with [Tinty](https://github.com/tinted-theming/tinty).
+> It is recommended to use [Tinty](https://github.com/tinted-theming/tinty).
 
 If you are using Tinty, please add this to `~/.config/tinty/config.toml` with the rest of theme items:
 
