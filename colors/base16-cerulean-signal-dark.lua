@@ -1,0 +1,24 @@
+-- This color scheme is automatically generated with Color Scheming.
+-- See https://github.com/tinted-theming/home
+-- Base16 Cerulean Signal Dark
+-- Author: Aaron Colichia (https://aaron.colichia.org/)
+
+return {
+	base00 = '#101722',
+	base01 = '#131c29',
+	base02 = '#173a5a',
+	base03 = '#8fa0b5',
+	base04 = '#aab8ca',
+	base05 = '#dce6f2',
+	base06 = '#f1f6fc',
+	base07 = '#f7f9fc',
+	base08 = '#ff8a9a',
+	base09 = '#f5a35c',
+	base0A = '#e2c85f',
+	base0B = '#70e1b0',
+	base0C = '#58d9df',
+	base0D = '#7dd3ff',
+	base0E = '#ff74d4',
+	base0F = '#d59b7d',
+}
+
