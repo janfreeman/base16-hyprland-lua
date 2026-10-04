@@ -1,0 +1,24 @@
+-- This color scheme is automatically generated with Color Scheming.
+-- See https://github.com/tinted-theming/home
+-- Base16 Serendipity Morning
+-- Author: Micheal Andreuzza (https://michaelandreuzza.com/)
+
+return {
+	base00 = '#f6f7fb',
+	base01 = '#eaebee',
+	base02 = '#eaebee',
+	base03 = '#6d7296',
+	base04 = '#505575',
+	base05 = '#3f4363',
+	base06 = '#3f4363',
+	base07 = '#f6f7fb',
+	base08 = '#c25a4d',
+	base09 = '#c25a4d',
+	base0A = '#785fd0',
+	base0B = '#2f7aab',
+	base0C = '#e58678',
+	base0D = '#6288d8',
+	base0E = '#785fd0',
+	base0F = '#2f7aab',
+}
+
